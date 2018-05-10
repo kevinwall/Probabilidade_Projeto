@@ -2,8 +2,10 @@
 
 ## Pesquisadores:
 Giovanne da Silva Santos.
+
 Kevin Wallacy de Souza Maciel.
+
 Noé Fernandes Carvalho Pessoa.
 
-##Professor Orientador:
+## Professor Orientador:
 Ivanovitch 
