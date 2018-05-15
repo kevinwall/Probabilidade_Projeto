@@ -1,11 +1,41 @@
-# Análise de Dados: Gêneros no corpo docente em cursos de tecnologia e ciências humanas
+# Análise Sobre a Diferença de Gênero na UFRN #
 
-## Pesquisadores:
-Giovanne da Silva Santos.
+## Pesquisadores: ##
+Giovanne da Silva Santos ( <giovannedssantos@gmail.com> ).
 
-Kevin Wallacy de Souza Maciel.
+Kevin Wallacy de Souza Maciel ( <kevinwall@ufrn.edu.br> ).
 
-Noé Fernandes Carvalho Pessoa.
+Noé Fernandes Carvalho Pessoa ( <noepessoa@outlook.com> ).
 
-## Professor Orientador:
-Ivanovitch 
+# Introdução: #
+
+Este projeto tem como foco a utilização dos dados públicos disponibilizados pela Universidade Federal do Rio Grande do Norte. 
+Mais especificamente, os dados dos alunos ingressantes em 2018, bem como os dos servidores públicos e professores presentes na instituição.
+
+O objetivo dessa pesquisa é, por meio desses dados, inferir sobre a diversidade de gêreno presente na instituição.
+
+# Ferramentas utilizadas: #
+
+Para a realização desta pesquisa, utilizamos as seguintes ferramentas:
+
+- Anaconda Navigator;
+- Jupter Notebook (Versão 5.0);
+- Rstudio (Colocar versão);
+- Python 3.6.
+
+## Bibliotecas Python: ##
+
+- Pandas;
+- Matplotlib;
+- Numpy;
+- Seaborn.
+
+# Motivação: #
+
+A motivação para realizar esta pesquisa foi o fato de que é bastante notório que a presença feminina em cursos de ciências exatas. 
+Tanto de alunas como professores, mas, para testar a veracidade da informação, resolvemos analizar os dados e obter um recurso matemático para vizualizar melhor essa discrepância.
+
+# Link para os dados: # 
+- Servidores: <http://dados.ufrn.br/dataset/pessoas/resource/dc7dad16-95f7-4972-abcc-ff296a402f46>;
+- Docentes: <http://dados.ufrn.br/dataset/docentes/resource/ff0a457e-76fa-4aca-ad99-48aebd7db070>;
+- Ingressantes em 2018: <http://dados.ufrn.br/dataset/discentes/resource/146b749b-b9d0-49b2-b114-ac6cc82a4051>.
