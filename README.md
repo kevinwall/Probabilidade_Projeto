@@ -19,7 +19,7 @@ O objetivo dessa pesquisa é, por meio desses dados, inferir sobre a diversidade 
 Para a realização desta pesquisa, utilizamos as seguintes ferramentas:
 
 - Anaconda Navigator;
-- Jupter Notebook;
+- Jupyter Notebook;
 - Rstudio;
 - Python 3.6.
 
