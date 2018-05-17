@@ -1,11 +1,11 @@
 # Análise Sobre a Diferença de Gênero na UFRN #
 
 ## Pesquisadores: ##
-Giovanne da Silva Santos ( <giovannedssantos@gmail.com> ).
+- [Giovanne da Silva Santos](https://github.com/GSDante) ( Email de contato: <giovannedssantos@gmail.com> );
 
-Kevin Wallacy de Souza Maciel ( <kevinwall@ufrn.edu.br> ).
+- [Kevin Wallacy de Souza Maciel](https://github.com/kevinwall) ( Email de contato: <kevinwall@ufrn.edu.br> );
 
-Noé Fernandes Carvalho Pessoa ( <noepessoa@outlook.com> ).
+- [Noé Fernandes Carvalho Pessoa](https://github.com/noefernandes) ( Email de Contato: <noepessoa@outlook.com> ).
 
 # Introdução: #
 
