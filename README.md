@@ -32,8 +32,7 @@ Para a realização desta pesquisa, utilizamos as seguintes ferramentas:
 
 # Motivação: #
 
-A motivação para realizar esta pesquisa foi o fato de que é bastante notório que a presença feminina em cursos de ciências exatas. 
-Tanto de alunas como professores, mas, para testar a veracidade da informação, resolvemos analizar os dados e obter um recurso matemático para vizualizar melhor essa discrepância.
+A motivação para realizar esta pesquisa foi o fato de que é bastante notório que a presença feminina em cursos de ciências exatas é reduzida em relação à masculina, tanto de alunos quanto professores, mas, para testar a veracidade da informação, resolvemos analizar os dados e obter um recurso matemático para vizualizar melhor essa discrepância.
 
 # Links úteis:  # 
 - Servidores: <http://dados.ufrn.br/dataset/pessoas/resource/dc7dad16-95f7-4972-abcc-ff296a402f46>;
